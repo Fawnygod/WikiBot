@@ -1,6 +1,6 @@
 import wikipedia, telebot 
 
-bot = telebot.TeleBot('')#Insert your telegram bot api key here
+bot = telebot.TeleBot('6075147060:AAG1tkD78Jxw7AAkzNXuvo20In6NDfgwbxI')#Insert your telegram bot api key here
 wikipedia.set_lang('uk')
 
 
